@@ -71,9 +71,5 @@ Building AI-powered software that solves real-world problems.
 
 ## 📫 Reach Me
 
-- 💼 LinkedIn *(Coming Soon)*
-- 📧 Email *(Coming Soon)*
-## 📫 Reach Me
-
 - 💼 LinkedIn  :  www.linkedin.com/in/v-venu-raghavan-27b6a5338
 - 📧 Email :  venuraghavan.ai@gmail.com
