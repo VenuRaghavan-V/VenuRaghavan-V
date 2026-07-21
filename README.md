@@ -46,7 +46,7 @@ I build AI-powered software that solves real-world problems by combining Machine
 - TensorFlow
 - PyTorch
 - React
-- PostgreSQL
+- MySQL
 - VS Code
 - Jupyter Notebook
 
