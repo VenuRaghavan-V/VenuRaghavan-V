@@ -1,28 +1,40 @@
-👋 Hi, I'm Venu Raghavan
+# 👋 Hi, I'm Venu Raghavan
 
-AI Engineer | Python Developer
+### AI Engineer | Python Developer
 
 Building AI-powered software that solves real-world problems.
 
-🚀 Current Projects
-• SmartGeo
-• Smart Business Control
+---
 
-🛠 Tech Stack
-Python
-FastAPI
-TensorFlow
-PyTorch
-React
-Git
-Docker
-SQL
+## 🚀 Current Projects
 
-🌱 Currently Learning
-AWS
-Kubernetes
-MLOps
+- 📍 SmartGeo
+- 🏢 Smart Business Control
 
-📫 Reach Me
-LinkedIn
-Email
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 Python
+- ⚡ FastAPI
+- 🧠 TensorFlow
+- 🔥 PyTorch
+- ⚛️ React
+- 🌿 Git
+- 🐳 Docker
+- 🗄️ SQL
+
+---
+
+## 🌱 Currently Learning
+
+- ☁️ AWS
+- ⚙️ Kubernetes
+- 🚀 MLOps
+
+---
+
+## 📫 Reach Me
+
+- 💼 LinkedIn *(Coming Soon)*
+- 📧 Email *(Coming Soon)*
